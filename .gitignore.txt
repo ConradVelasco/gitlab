@@ -1,1 +1,1 @@
-*.class
+/1510lab10/bin/*.class
