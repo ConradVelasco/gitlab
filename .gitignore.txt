@@ -1,1 +1,1 @@
-/1510lab10/bin/thepackage/*.class
+*.class
